@@ -1,0 +1,4 @@
+spz,email,first_name,last_name,rentstartdatetime,enddatetime
+9AB1234,jan@example.com,Jan,Novak,2025-09-23 10:00:00,2025-09-23 11:00:00
+9AB1234,petr@example.com,Petr,Svoboda,2025-09-23 12:00:00,2025-09-23 14:30:00
+8BC2345,iva@example.com,Iva,Nova,2025-09-23 10:00:00,2025-09-23 12:00:00
